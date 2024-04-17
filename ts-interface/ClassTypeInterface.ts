@@ -1,0 +1,3 @@
+interface Json {
+    toJSON(): string
+}
